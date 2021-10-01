@@ -1,0 +1,29 @@
+#input_button{
+    margin-top:200px;
+}
+
+h1{
+    color:rgb(240, 148, 86);
+    background-color: rgba(0, 0, 0, 0.747);
+}
+ h2{
+    margin:40px;
+    color:rgb(196, 125, 253);
+    font-family:'Courier New', Courier, monospace;
+    background-color: rgba(0, 0, 0, 0.801);
+}
+
+#get_name{
+    width: 500px;
+    background-color: rgba(0, 0, 0, 0.527);    
+    border-style:solid;
+    border-color: rgba(73, 172, 230, 0.795);
+    color:thistle
+}
+
+body{
+    background-image :url("HG.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+
+}
