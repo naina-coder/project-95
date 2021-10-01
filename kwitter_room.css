@@ -1,0 +1,24 @@
+body{
+    background-image:url("room.jpg");
+     
+    color:cornsilk;
+}
+
+#username_update{
+    color: rgb(119, 84, 56);
+}
+
+#room_name{
+    color: rgb(255, 255, 255);
+    margin-top:100px;
+    background-color: rgba(169, 169, 169, 0.5);
+}
+#addroom{
+    margin-top: 20px;
+}
+
+#trending_rooms{
+    background-color: rgba(138, 102, 70, 0.788);
+    color:cornsilk;
+    border-radius: 7px;
+}
